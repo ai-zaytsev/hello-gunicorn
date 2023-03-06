@@ -1,1 +1,1 @@
-### Simple app that returns Hello world
+#### Simple app that returns text
